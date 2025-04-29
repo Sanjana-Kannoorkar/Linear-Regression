@@ -17,10 +17,10 @@ Achieved an R² score of 0.75, meaning 75% of price variation is explained by th
 MAE: ±$1.25M (average prediction error).
 
 ## Key Insights
-Top Price Drivers:
-### area (most significant impact)
-### airconditioning (+$400K premium)
-### bathrooms (+$750K per extra bathroom)
+### Top Price Drivers:
+area (most significant impact)
+airconditioning (+$400K premium)
+bathrooms (+$750K per extra bathroom)
 
 ## Cost Reducers:
 ### unfurnished homes cost ~$300K less than furnished ones.
