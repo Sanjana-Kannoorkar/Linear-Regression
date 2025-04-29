@@ -23,7 +23,7 @@ airconditioning (+$400K premium)
 bathrooms (+$750K per extra bathroom)
 
 ## Cost Reducers:
-### unfurnished homes cost ~$300K less than furnished ones.
+unfurnished homes cost ~$300K less than furnished ones.
 
 ## Visualizations
 Actual vs Predicted Prices Plot
